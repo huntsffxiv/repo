@@ -1,12 +1,12 @@
 [
   {
-    "Author": "FFXIVHunts",
+    "Author": "HuntsFFXIV",
     "Name": "HuntAlerts",
     "Description": "Notifies you when hunt trains are starting soon",
     "InternalName": "HuntAlerts",
     "AssemblyVersion": "0.1",
     "Changelog": "Initial Release",
-    "RepoUrl": "https://github.com/ffxivhunts",
+    "RepoUrl": "https://github.com/huntsffxiv",
     "ApplicableVersion": "any",
     "Tags": [
       "hunt",
