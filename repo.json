@@ -1,0 +1,27 @@
+[
+  {
+    "Author": "FFXIVHunts",
+    "Name": "HuntAlerts",
+    "Description": "Notifies you when hunt trains are starting soon",
+    "InternalName": "HuntAlerts",
+    "AssemblyVersion": "0.1",
+    "Changelog": "Initial Release",
+    "RepoUrl": "https://github.com/ffxivhunts",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "hunt",
+      "train",
+      "rank",
+      "boat"
+    ],
+    "DalamudApiLevel": 9,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 0,
+    "DownloadCount": 0,
+    "IconUrl": "https://cdn.discordapp.com/attachments/1197030696372408382/1197031117149175849/FFXIV_Hunts_logo.png",
+    "DownloadLinkInstall": "https://github.com/ffxivhunts/repo/releases/download/v0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ffxivhunts/repo/releases/download/v0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ffxivhunts/repo/releases/download/v0.1/latest.zip"
+  }
+]
