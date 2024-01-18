@@ -4,8 +4,8 @@
     "Name": "HuntAlerts",
     "Description": "Notifies you when hunt trains are starting soon",
     "InternalName": "HuntAlerts",
-    "AssemblyVersion": "0.1",
-    "Changelog": "Initial Release",
+    "AssemblyVersion": "0.2",
+    "Changelog": "Added lifestream/teleporter integration",
     "RepoUrl": "https://github.com/huntsffxiv",
     "ApplicableVersion": "any",
     "Tags": [
@@ -20,8 +20,8 @@
     "LastUpdated": 0,
     "DownloadCount": 0,
     "IconUrl": "https://cdn.discordapp.com/attachments/1197030696372408382/1197031117149175849/FFXIV_Hunts_logo.png",
-    "DownloadLinkInstall": "https://github.com/huntsffxiv/repo/releases/download/v0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/huntsffxiv/repo/releases/download/v0.1/latest.zip",
-    "DownloadLinkUpdate": "hhttps://github.com/huntsffxiv/repo/releases/download/v0.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/huntsffxiv/repo/releases/download/v0.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/huntsffxiv/repo/releases/download/v0.2/latest.zip",
+    "DownloadLinkUpdate": "hhttps://github.com/huntsffxiv/repo/releases/download/v0.2/latest.zip"
   }
 ]
