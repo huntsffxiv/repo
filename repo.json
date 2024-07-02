@@ -4,8 +4,8 @@
     "Name": "HuntAlerts",
     "Description": "Notifies you when hunt trains are starting soon",
     "InternalName": "HuntAlerts",
-    "AssemblyVersion": "1.2.1.4",
-    "Changelog": "Added new worlds for Shadow and Dynamis",
+    "AssemblyVersion": "1.2.1.5",
+    "Changelog": "Dawntrail Release",
     "RepoUrl": "https://github.com/huntsffxiv",
     "ApplicableVersion": "any",
     "Tags": [
@@ -14,14 +14,14 @@
       "rank",
       "boat"
     ],
-    "DalamudApiLevel": 9,
+    "DalamudApiLevel": 10,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 0,
     "DownloadCount": 0,
     "IconUrl": "https://cdn.discordapp.com/attachments/1197030696372408382/1197623443814891680/FFXIV_Hunts_logo.png",
-    "DownloadLinkInstall": "https://github.com/huntsffxiv/repo/releases/download/v1.2.1.4/latest.zip",
-    "DownloadLinkTesting": "https://github.com/huntsffxiv/repo/releases/download/v1.2.1.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/huntsffxiv/repo/releases/download/v1.2.1.4/latest.zip"
+    "DownloadLinkInstall": "https://github.com/huntsffxiv/repo/releases/download/v1.2.1.5/latest.zip",
+    "DownloadLinkTesting": "https://github.com/huntsffxiv/repo/releases/download/v1.2.1.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/huntsffxiv/repo/releases/download/v1.2.1.5/latest.zip"
   }
 ]
