@@ -1,12 +1,12 @@
 [
   {
-    "Author": "HuntsFFXIV",
+    "Author": "Asuna",
     "Name": "HuntAlerts",
     "Description": "Notifies you when hunt trains are starting soon",
     "InternalName": "HuntAlerts",
-    "AssemblyVersion": "1.3.3.3",
+    "AssemblyVersion": "1.3.3.4",
     "Changelog": "7.5 fixes",
-    "RepoUrl": "https://github.com/huntsffxiv",
+    "RepoUrl": "https://projects.gamba.pro/Asuna/huntalerts",
     "ApplicableVersion": "any",
     "Tags": [
       "hunt",
@@ -20,8 +20,8 @@
     "LastUpdated": 0,
     "DownloadCount": 0,
     "IconUrl": "https://cdn.discordapp.com/attachments/1197030696372408382/1197623443814891680/FFXIV_Hunts_logo.png",
-    "DownloadLinkInstall": "https://github.com/huntsffxiv/repo/releases/download/v1.3.3.3/HuntAlerts_v1.3.3.3.zip",
-    "DownloadLinkTesting": "https://github.com/huntsffxiv/repo/releases/download/v1.3.3.3/HuntAlerts_v1.3.3.3.zip",
-    "DownloadLinkUpdate": "https://github.com/huntsffxiv/repo/releases/download/v1.3.3.3/HuntAlerts_v1.3.3.3.zip"
+    "DownloadLinkInstall": "https://projects.gamba.pro/Asuna/releases/-/raw/main/HuntAlerts/HuntAlerts_v1.3.3.4.zip",
+    "DownloadLinkTesting": ""https://projects.gamba.pro/Asuna/releases/-/raw/main/HuntAlerts/HuntAlerts_v1.3.3.4.zip"",
+    "DownloadLinkUpdate": ""https://projects.gamba.pro/Asuna/releases/-/raw/main/HuntAlerts/HuntAlerts_v1.3.3.4.zip""
   }
 ]
