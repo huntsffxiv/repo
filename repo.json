@@ -4,7 +4,7 @@
     "Name": "HuntAlerts",
     "Description": "Notifies you when hunt trains are starting soon",
     "InternalName": "HuntAlerts",
-    "AssemblyVersion": "1.4.0.12",
+    "AssemblyVersion": "1.4.0.13",
     "Changelog": "Added Japan support",
     "RepoUrl": "https://projects.gamba.pro/Asuna/huntalerts",
     "ApplicableVersion": "any",
@@ -20,8 +20,8 @@
     "LastUpdated": 0,
     "DownloadCount": 0,
     "IconUrl": "https://projects.gamba.pro/Asuna/releases/-/raw/main/HuntAlerts/FFXIV_Hunts_logo.png",
-    "DownloadLinkInstall": "https://projects.gamba.pro/Asuna/releases/-/raw/main/HuntAlerts/HuntAlerts_v1.4.0.12.zip",
-    "DownloadLinkTesting": "https://projects.gamba.pro/Asuna/releases/-/raw/main/HuntAlerts/HuntAlerts_v1.4.0.12.zip",
-    "DownloadLinkUpdate":  "https://projects.gamba.pro/Asuna/releases/-/raw/main/HuntAlerts/HuntAlerts_v1.4.0.12.zip"
+    "DownloadLinkInstall": "https://projects.gamba.pro/Asuna/releases/-/raw/main/HuntAlerts/HuntAlerts_v1.4.0.13.zip",
+    "DownloadLinkTesting": "https://projects.gamba.pro/Asuna/releases/-/raw/main/HuntAlerts/HuntAlerts_v1.4.0.13.zip",
+    "DownloadLinkUpdate":  "https://projects.gamba.pro/Asuna/releases/-/raw/main/HuntAlerts/HuntAlerts_v1.4.0.13.zip"
   }
 ]
